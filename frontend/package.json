@@ -1,0 +1,1 @@
+cd frontend && npm install axios react-router-dom react-hot-toast tailwindcss
